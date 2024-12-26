@@ -59,7 +59,7 @@ This application allows users to upload research papers (PDFs or text documents)
 
 1. Start the backend server:
     ```bash
-    python app.py
+    streamlit run stream.py
     ```
 
 2. Open the application in your browser at:
